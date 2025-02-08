@@ -6494,3 +6494,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.banner_part {
+  padding: 50px 0; /* Reduce padding to make it smaller */
+  min-height: 300px; /* Adjust the height as needed */
+}
+
+.banner_text_iner h1 {
+  font-size: 2rem; /* Decrease the font size of the heading */
+}
+
+.banner_text_iner p {
+  font-size: 1rem; /* Decrease the font size of the paragraph */
+}
